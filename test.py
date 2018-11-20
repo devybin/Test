@@ -1,0 +1,5 @@
+
+home="home"
+
+print(home)
+
